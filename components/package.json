@@ -1,10 +1,10 @@
 {
-  "name": "@scania-sdds/components",
+  "name": "@elaelation/components",
   "version": "1.0.1-1",
   "description": "In this repository we're developing the next generation components for Scania Digital Design System",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scania-digital-design-system/sdds.git"
+    "url": "git+https://github.com/helloimela/sdds.git"
   },
   "module": "dist/collection/index.js",
   "main": "dist/collection/index.js",
@@ -13,8 +13,7 @@
     "dist"
   ],
   "publishConfig": {
-    "access": "public",
-    "directory": "dist"
+    "access": "public"
   },
   "scripts": {
     "start": "concurrently \"npm:watch-*\"",

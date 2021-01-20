@@ -5,7 +5,7 @@
   "description": "In this repository we're developing the next generation components for Scania Digital Design System",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scania-digital-design-system/sdds.git"
+    "url": "https://github.com/helloimela/sdds.git"
   },
   "publishConfig": {
     "access": "public"
@@ -21,7 +21,8 @@
     "build": "lerna run build",
     "changelog": "lerna-changelog",
     "clean": "lerna clean",
-    "release": "lerna publish"
+    "release": "lerna publish",
+    "next": "lerna publish -- --dist-tag next"
   },
   "changelog": {
     "ignoreCommitters": [

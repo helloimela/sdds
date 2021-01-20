@@ -1,5 +1,5 @@
 {
-  "name": "@scania-sdds/theme-light",
+  "name": "@elaelation/theme-light",
   "version": "1.0.0-beta.2",
   "description": "Scania theme light is a package to style Scania looks and feel.",
   "main": "dist/module.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scania-digital-design-system/sdds.git"
+    "url": "git+https://github.com/helloimela/sdds.git"
   },
   "devDependencies": {
     "@babel/core": "7.5.4",
