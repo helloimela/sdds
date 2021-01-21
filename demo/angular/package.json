@@ -24,6 +24,8 @@
     "@angular/router": "^8.0.3",
     "@carbon/layout": "^10.14.0",
     "@ng-bootstrap/ng-bootstrap": "^5.0.0-rc.1",
+    "@scania-sdds/grid": "^1.0.1",
+    "@scania/grid": "^1.0.0-beta.0",
     "@webcomponents/webcomponentsjs": "^2.2.10",
     "core-js": "^3.1.4",
     "rxjs": "~6.5.2",
