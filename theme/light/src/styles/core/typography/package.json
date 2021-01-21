@@ -1,6 +1,6 @@
 {
   "name": "@elaelation/typography",
-  "version": "1.0.1-2",
+  "version": "1.0.1",
   "description": "Scania Digital Design System Typography",
   "scripts": {
     "build": "node compile.js"
