@@ -1,5 +1,5 @@
 {
-  "name": "@elaelation/theme-light",
+  "name": "@elaelation/my-theme-light",
   "version": "1.0.0-beta.3",
   "description": "Scania theme light is a package to style Scania looks and feel.",
   "main": "dist/module.js",

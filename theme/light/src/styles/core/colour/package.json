@@ -1,5 +1,5 @@
 {
-  "name": "@elaelation/colour",
+  "name": "@elaelation/my-colour",
   "version": "1.0.1-2",
   "description": "Scania Digital Design System colour package",
   "main": "dist/scss/colour.scss",
